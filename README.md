@@ -1,11 +1,10 @@
 # Data Structures and Algorithms in JavaScript
-about the repo. Ex: should have experience with basic programing. 
+about the repo. Ex: should have experience with basic programing.
 
 <!-- put a table of contents here  -->
 
 
 ## Data Structures & Algorithms
-<!-- each section covers adding, removing, searching and sorting -->
 
 Data Structure Overview
 
@@ -13,7 +12,7 @@ Data Structure Overview
 
 - Arrays
 - Lists
-  - Linked Lists 
+  - Linked Lists
     - singly linked list
     - doubly linked list
     - circular linked list
@@ -23,7 +22,7 @@ Data Structure Overview
 ### Section 2: Non-linear Data Structures
 
 - Maps
-- Graphs
+- ![Graphs](./data-structures/graphs/about.md)
 - Trees
 - Heaps
 
@@ -47,4 +46,4 @@ Data Structure Overview
 <!--  More vague and requires more dynamic programming skills -->
 
 <!-- Additional Resources -->
-<!--  https://medium.com/@codingfreak/500-data-structures-and-algorithms-practice-problems-35afe8a1e222 --> 
+<!--  https://medium.com/@codingfreak/500-data-structures-and-algorithms-practice-problems-35afe8a1e222 -->
